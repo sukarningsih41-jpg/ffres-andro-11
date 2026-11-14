@@ -1,0 +1,3 @@
+<resources>
+    <style name="Theme.ResChanger" parent="Theme.MaterialComponents.DayNight.NoActionBar" />
+</resources>
